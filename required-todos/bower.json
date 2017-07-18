@@ -11,7 +11,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "reactive-coffee": "~1.0.0",
+    "bobtail": "^2.0.0",
     "requirejs": ">=2.1",
     "todomvc-common": "~0.1.7",
     "requirejs-domready": "~2.0.1"
